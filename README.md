@@ -16,3 +16,7 @@ http://visualqa.org/data/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 http://visualqa.org/data/mscoco/vqa/v2_Annotations_Val_mscoco.zip
 
 VQG Image Captioning file generates natural questions about the image.
+
+# Generating natural questions from image examples ("VQG_Captioning/")
+
+
