@@ -15,4 +15,4 @@ http://visualqa.org/data/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
 http://visualqa.org/data/mscoco/vqa/v2_Annotations_Val_mscoco.zip
 
-Need to implement Image-Captioning for VQG dataset
+VQG Image Captioning file generates natural questions about the image.
