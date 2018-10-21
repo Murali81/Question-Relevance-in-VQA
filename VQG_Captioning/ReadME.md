@@ -1,7 +1,7 @@
-"VQG Image Captioning InceptionV3.ipynb"
+**VQG Image Captioning InceptionV3.ipynb**
 Jupyter notebook file has everything coded in it, which I hope makes it easy to understand the code. VQG - Visual Question Generation Dataset is used to generate natural questions.
 
-Run the "prepare_dataset.ipynb" file to create train,test,val splits and dataset format. I made my dataset similar to Flickr8k dataset format.
+Run the **prepare_dataset.ipynb** file to create train,test,val splits and dataset format. I made my dataset similar to Flickr8k dataset format.
 
 I am using Beam search with **k=3, 5, 7** and an Argmax search for predicting the captions of the images.
 
