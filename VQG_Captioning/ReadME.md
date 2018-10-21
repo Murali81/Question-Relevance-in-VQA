@@ -3,6 +3,11 @@ Jupyter notebook file has everything coded in it, which I hope makes it easy to 
 
 Run the "prepare_dataset.ipynb" file to create train,test,val splits and dataset format. I made my dataset similar to Flickr8k dataset format.
 
+I am using Beam search with **k=3, 5, 7** and an Argmax search for predicting the captions of the images.
+
+Model is trained till a loss value of **3.0077** had been achieved, which gives considerably good results. You can check out some examples below. The rest of the examples are in the jupyter notebook. You can run the Jupyter Notebook and try out your own examples. 
+*unique.p* is a pickle file which contains all the unique words in the vocabulary. 
+
 # Dependencies
 
 * Keras 2.0.8
