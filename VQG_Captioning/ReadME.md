@@ -1,3 +1,8 @@
+"VQG Image Captioning InceptionV3.ipynb"
+Jupyter notebook file has everything coded in it, which I hope makes it easy to understand the code. VQG - Visual Question Generation Dataset is used to generate natural questions.
+
+Run the "prepare_dataset.ipynb" file to create train,test,val splits and dataset format. I made my dataset similar to Flickr8k dataset format.
+
 # Dependencies
 
 * Keras 2.0.8
@@ -9,11 +14,6 @@
 * pickle
 * PIL
 * glob
-
-"VQG Image Captioning InceptionV3.ipynb"
-Jupyter notebook file has everything coded in it, which I hope makes it easy to understand the code. VQG - Visual Question Generation Dataset is used to generate natural questions.
-
-Run the "prepare_dataset.ipynb" file to create train,test,val splits and dataset format. I made my dataset similar to Flickr8k dataset format.
 
 # References
 
