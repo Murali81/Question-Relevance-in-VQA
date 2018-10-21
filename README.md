@@ -21,4 +21,8 @@ VQG Image Captioning file generates natural questions about the image.
 
 View them <a href='https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/'> here</a>
 
-
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/loss_3.0077_47acc/5.PNG)
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/loss_3.0077_47acc/6.PNG)
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/loss_3.0077_47acc/7.PNG)
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/loss_3.0077_47acc/8.PNG)
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/loss_3.0077_47acc/9.PNG)
