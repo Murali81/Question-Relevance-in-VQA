@@ -19,4 +19,6 @@ VQG Image Captioning file generates natural questions about the image.
 
 # Generating natural questions from image examples ("VQG_Captioning/")
 
+View them <a href='https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/VQG_Captioning/tested_samples/'> here</a>
+
 
