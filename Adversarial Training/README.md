@@ -1,6 +1,18 @@
 # Adversarial Training
 Initialization Technique for mapping Images with Text
 
-Below plot is generated for randomly initiated arrays, should run it on image, text vectors.
+Below plot is generated for the setup of thetaD (Discriminator weights) trainable during mapping and considering mapping of questions to images, (to fool Discriminator) during mapping.
 
-![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/plot_loss.PNG)
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/Plots/plot_loss_trainD_always_true_textGen.PNG)
+
+Generated for the setup of thetaD (Discriminator weights) NOT trainable during mapping and considering mapping of questions to images, (to fool Discriminator) during mapping.
+
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/Plots/plot_loss_trainD_always_False_textGen.PNG)
+
+Generated for the setup of thetaD (Discriminator weights) trainable during mapping and NOT considering mapping of questions to images, (to fool Discriminator) during mapping.
+
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/Plots/plot_loss_trainD_True_NOtextGen.PNG)
+
+Generated for the setup of thetaD (Discriminator weights) NOT trainable during mapping and NOT considering mapping of questions to images, (to fool Discriminator) during mapping.
+
+![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/Plots/plot_loss_trainD_False_NOtextGen.PNG)
