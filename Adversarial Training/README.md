@@ -1,7 +1,8 @@
 # Adversarial Training
 Initialization Technique for mapping Images with Text. Based on https://arxiv.org/pdf/1710.04087 's paper on cross-lingual word embeddings.
 
-Plot generated for the best setup i.e thetaD (Discriminator weights) untrainable during mapping and label smoothing of 0.2. You could see that discriminator and mapper have converged with same loss showing stable state.
+Plot generated for the best setup i.e thetaD (Discriminator weights) untrainable during mapping and label smoothing of 0.2. You could see that discriminator and mapper have converged with same loss showing stable state. 
+X axis label is not epochs but steps per epoch.
 
 ![alt_text](https://github.com/Murali81/Question-Relevance-in-Visual-QA/blob/master/Adversarial%20Training/Plots/epochs_50/train_thetaD_NoTextGen_256BZ_0.2smooth.png)
 
